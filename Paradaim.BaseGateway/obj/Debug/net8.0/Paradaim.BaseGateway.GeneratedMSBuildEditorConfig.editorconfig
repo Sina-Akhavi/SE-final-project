@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Paradaim.BaseGateway
-build_property.ProjectDir = /Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/
+build_property.ProjectDir = /home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

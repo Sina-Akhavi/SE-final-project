@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Paradaim.BaseGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1b18b69dd51e2a5fdd4581f36f276640912b267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d68931a3f270b15bffe42686024e602b2261f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Paradaim.BaseGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Paradaim.BaseGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

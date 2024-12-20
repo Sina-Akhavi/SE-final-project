@@ -1,20 +1,104 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj": {}
+    "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj": {}
   },
   "projects": {
-    "/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj": {
+    "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj",
+        "projectUniqueName": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj",
         "projectName": "Paradaim.BaseGateway.Tests",
-        "projectPath": "/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj",
-        "packagesPath": "/Users/hosseinmarvi/.nuget/packages/",
-        "outputPath": "/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/obj/",
+        "projectPath": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/Paradaim.BaseGateway.Tests.csproj",
+        "packagesPath": "/home/drsystem/.nuget/packages/",
+        "outputPath": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hosseinmarvi/.nuget/NuGet/NuGet.Config"
+          "/home/drsystem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/Paradaim.BaseGateway.csproj": {
+                "projectPath": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/Paradaim.BaseGateway.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/Paradaim.BaseGateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/Paradaim.BaseGateway.csproj",
+        "projectName": "Paradaim.BaseGateway",
+        "projectPath": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/Paradaim.BaseGateway.csproj",
+        "packagesPath": "/home/drsystem/.nuget/packages/",
+        "outputPath": "/home/drsystem/Documents/university/term9/SE/paradaim/paradaim/SE-final-project/Paradaim.BaseGateway/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/drsystem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -43,21 +127,41 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "Azure.Core": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[1.35.0, )"
             },
-            "coverlet.collector": {
+            "ClosedXML": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[0.102.3, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.9.2, )"
             }
           },
           "imports": [
@@ -76,7 +180,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
