@@ -1,0 +1,15 @@
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.csproj.AssemblyReference.cache
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.AssemblyInfoInputs.cache
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.AssemblyInfo.cs
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.csproj.CoreCompileInputs.cache
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.sourcelink.json
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/bin/Debug/net8.0/Paradaim.BaseGateway.deps.json
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/bin/Debug/net8.0/Paradaim.BaseGateway.runtimeconfig.json
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/bin/Debug/net8.0/Paradaim.BaseGateway.dll
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/bin/Debug/net8.0/Paradaim.BaseGateway.pdb
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.dll
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/refint/Paradaim.BaseGateway.dll
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.pdb
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/Paradaim.BaseGateway.genruntimeconfig.cache
+/Users/hosseinmarvi/Desktop/paradaim/SE-final-project/Paradaim.BaseGateway/obj/Debug/net8.0/ref/Paradaim.BaseGateway.dll
