@@ -1,0 +1,28 @@
+{
+    "configurations": [
+      {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch Paradaim.Api",
+        "program": "${workspaceFolder}/Paradaim.Api/bin/Debug/net8.0/Paradaim.Api.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/Paradaim.Api",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+          "action": "openExternally",
+          "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "preLaunchTask": "build"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "promptString",
+        "id": "programPath",
+        "description": "Path to your program"
+      }
+    ]
+  }

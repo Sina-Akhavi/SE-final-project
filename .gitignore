@@ -1,0 +1,6 @@
+
+/obj
+/DeviceFLO-API/obj
+/.vs
+**/bin/
+**/obj/

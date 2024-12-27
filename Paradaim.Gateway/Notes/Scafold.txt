@@ -1,0 +1,8 @@
+dotnet ef dbcontext scaffold "Server=116.203.210.161;Database=ParadaimDB;User=Paradaim;Password=I&Youmm!" \
+Pomelo.EntityFrameworkCore.MySql -o Models
+
+
+dotnet ef dbcontext scaffold "Server=116.203.210.161;Database=ParadaimDB;User=Paradaim;Password=I&Youmm!" \
+Pomelo.EntityFrameworkCore.MySql -o Models --no-onconfiguring
+
+dotnet ef dbcontext scaffold "Server=116.203.210.161;Database=ParadaimDB;User=Paradaim;Password=I&Youmm68" Pomelo.EntityFrameworkCore.MySql -o Models --no-onconfiguring
